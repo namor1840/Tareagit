@@ -5,7 +5,7 @@ function App() {
   return (
 
     <><div>
-      <img src='https://picsum.photos/200' alt='Imagen' />
+      <img src='https://picsum.photos/400' alt='Imagen' />
 
     </div></>
 
